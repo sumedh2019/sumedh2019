@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumedh2019
+- 👋 Hi, I’m @sumedh
 
 
 <!---
